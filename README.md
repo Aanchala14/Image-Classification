@@ -1,4 +1,4 @@
-#Image Detection Models for the CIFAR-10 dataset using TensorFlow and Numpy#
+#Image Classification Model for the CIFAR-10 dataset using TensorFlow and Numpy#
 -
 - Neural Network
 - Supervised learning
